@@ -13,7 +13,7 @@ https://raw.githubusercontent.com/Leon406/SubCrawler/master/sub/share/vless
 https://raw.githubusercontent.com/sevcator/5ubscrpt10n/main/mini/m1n1-5ub-14.txt
 https://raw.githubusercontent.com/sevcator/5ubscrpt10n/main/mini/m1n1-5ub-19.txt
 https://raw.githubusercontent.com/sakha1370/OpenRay/main/output/all_valid_proxies.txt
-https://raw.githubusercontent.com/Arefgh72/v2ray-proxy-pars-tester/main/output/github_all.txt
+# https://raw.githubusercontent.com/Arefgh72/v2ray-proxy-pars-tester/main/output/github_all.txt
 https://raw.githubusercontent.com/ovmvo/SubShare/main/sub/permanent/mihomo.yaml
 https://raw.githubusercontent.com/liMilCo/v2r/main/base64/2.txt
 https://raw.githubusercontent.com/liMilCo/v2r/main/configs.txt
